@@ -14,7 +14,7 @@ The data from the election was provided in a csv file.
 - Jefferson: 38,855 Votes (10.5% of all votes collected)
 - Arapahoe: 24,801 Votes (6.7% of all votes collected)
 
-#### County with largest voter turnout: Denver
+**County with largest voter turnout: Denver**
 
 ### Vote Breakdown by Candidate
 - Diana DeGette: 272,892 Votes (73.8% of all votes)
