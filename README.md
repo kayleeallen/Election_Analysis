@@ -7,7 +7,7 @@ The data from the election was provided in a csv file.
 
 ## Election Audit Results
 
-- In the election, a total of 369,711 votes were cast from the 3 counties.
+**In the election, a total of 369,711 votes were cast from the 3 counties.**
 
 ### Vote Breakdown by County
 - Denver: 306,055 Votes (82.8% of all votes collected)
